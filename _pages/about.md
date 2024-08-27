@@ -13,7 +13,3 @@ I try to have a positive impact in my local community with [Društvo Steza](http
 I enjoy sharing. That’s why I set up this site. 
 
 There are some options to get in touch at the bottom of this page. 
-
-
----
-*Theme: based on [Type](https://github.com/Ptujec/ptujec.github.io#readme)*
