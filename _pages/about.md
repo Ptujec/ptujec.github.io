@@ -1,10 +1,7 @@
 ---
-layout: single
 title: About
 permalink: /about/
 ---
-
-# About
 
 My name is Christian.
 
