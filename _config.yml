@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Christian"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : " "
+  bio              : 
   location         : 
   email            :
   links:
