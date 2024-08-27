@@ -9,6 +9,6 @@ I’m interested in technology that makes life easier and is esthetically pleasi
 
 I try to have a positive impact in my local community with [Društvo Steza](http://drustvosteza.si). 
 
-I enjoy sharing. That’s why I set up this site. 
+I enjoy sharing. That’s why I set up "P-Toolbox". 
 
-There are some options to get in touch at the bottom of this page. 
+There are some options to get in touch on this page. 
