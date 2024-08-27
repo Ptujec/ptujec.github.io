@@ -125,5 +125,3 @@ Stay uptodate with [Local Action Updates](https://github.com/Ptujec/LaunchBar/tr
 - [Cobiss](https://github.com/Ptujec/LaunchBar/tree/master/Slovene-Actions#cobiss-search-with-suggestions)
 - [Lorem Slovensko (Slovene version of Lorem Ipsum)](https://github.com/Ptujec/LaunchBar/tree/master/Text-Actions)
 - [RTV 365](https://github.com/Ptujec/LaunchBar/tree/master/Slovene-Actions#rtv-365) & [4D](https://github.com/Ptujec/LaunchBar/tree/master/Slovene-Actions#rtv-slo-4d)
-
-*last updated: 2023-11-03*
