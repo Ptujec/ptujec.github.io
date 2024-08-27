@@ -97,7 +97,7 @@ $instagram-color: #517fa4 !default;
 $keybase-color: #ef7639 !default;
 $lastfm-color: #d51007 !default;
 $linkedin-color: #007bb6 !default;
-$mastodon-color: #2b90d9 !default;
+$mastodon-color: #6364FF !default;
 $pinterest-color: #cb2027 !default;
 $reddit-color: #ff4500 !default;
 $rss-color: #fa9b39 !default;
@@ -111,7 +111,7 @@ $youtube-color: #bb0000 !default;
 $xing-color: #006567 !default;
 
 /* links */
-$link-color: mix(#000, $info-color, 20%) !default;
+$link-color: mix(#000, $text-color, 20%) !default; // changed from $info-color
 $link-color-hover: mix(#000, $link-color, 25%) !default;
 $link-color-visited: mix(#fff, $link-color, 15%) !default;
 $masthead-link-color: $primary-color !default;
