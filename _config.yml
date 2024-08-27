@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Ptujec"
+title                    : "Ptujec' Toolbox"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "A place to share" # site tagline that appears below site title in masthead
 name                     : "Hi, I'm Christian"
 description              : "This is a site to share stuff."
 url                      : "https://ptujec.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Christian"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : 
+  bio              : "Hi, I love sharing usefull tools."
   location         : 
   email            :
   links:
