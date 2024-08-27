@@ -1,6 +1,7 @@
 ---
 layout: page
 title: LaunchBar Actions
+permalink: /launchbar/
 ---
 
 This is a curated list of actions I built for [LaunchBar](https://www.obdev.at/products/launchbar/index.html). If you find bugs please [create an issue here](https://github.com/Ptujec/LaunchBar/issues/new). For questions and ideas use the [discussions section on GitHub](https://github.com/Ptujec/LaunchBar/discussions). 
