@@ -1,5 +1,6 @@
 ---
 title: "Action Updates: Zotero, Paste Date & iA Writer"
+last_modified_at: 2024-08-28T10:23:07.189Z
 ---
 
 ## [Zotero 1.6](https://github.com/Ptujec/LaunchBar/tree/master/Zotero-Actions#readme)
