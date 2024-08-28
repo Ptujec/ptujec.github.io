@@ -1,5 +1,5 @@
 ---
-title: "Action Updates: Zotero & Paste Date"
+title: "Action Updates: Zotero, Paste Date & iA Writer"
 ---
 
 ## [Zotero 1.6](https://github.com/Ptujec/LaunchBar/tree/master/Zotero-Actions#readme)
