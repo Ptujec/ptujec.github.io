@@ -1,6 +1,7 @@
 ---
 title: "LaunchBar Action Updates: Todoist Inbox 3.0 & SF Symbols"
-last_modified_at: 2024-10-07T19:20:51.501Z
+date: 2024-10-07 19:39:32 -0200
+last_modified_at: 2024-10-07T19:39:32.592Z
 ---
 
 ## [Todoist Inbox 3.0](https://github.com/Ptujec/LaunchBar/tree/master/Todoist-Inbox)
