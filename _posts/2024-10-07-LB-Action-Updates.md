@@ -1,6 +1,6 @@
 ---
 title: "LaunchBar Action Updates: Todoist Inbox 3.0 & SF Symbols"
-date: 2024-10-07 19:39:32 -0200
+date: 2024-10-07 19:40 +0200
 last_modified_at: 2024-10-07T19:39:32.592Z
 ---
 
