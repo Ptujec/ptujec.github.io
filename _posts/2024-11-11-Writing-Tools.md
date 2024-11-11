@@ -1,10 +1,9 @@
 ---
 title: "Writing Tools (New LB Action)"
-date: 2024-11-11 11:18 +0200
-last_modified_at: 2024-11-11T11:26:06.616Z
+date: 2024-11-11 11:42 +0200
 ---
 
-Recently I have realized that I mainly use ChatGPT for checking my spelling and grammar. It works fine with my "[Ask ChatGPT](https://github.com/Ptujec/LaunchBar/tree/master/Ask-ChatGPT)" action. But the purpose of that action is more conversational. For spellchecking, I just need the edited text, not a dialogue. I also thought I could optimize a few things. So I created a new action called "Writing Tools." 
+Recently I have realized that I mainly use ChatGPT for checking my spelling and grammar. It works fine with my "[Ask ChatGPT](https://github.com/Ptujec/LaunchBar/tree/master/Ask-ChatGPT)" action. But the purpose of that action is more conversational. For spellchecking, I just need the edited text, not a dialogue. I also thought I could optimize a few things. So I created a new action called "[Writing Tools](https://github.com/Ptujec/LaunchBar/tree/master/Writing-Tools#readme)". 
 
 ![Screenshot](/assets/images/writing_tools.jpg)
 
