@@ -8,4 +8,4 @@ It didn't take me long after upgrading to Sequoia to realize that my notificatio
 
 Enjoy [the update](https://github.com/Ptujec/LaunchBar/tree/master/Notifications) if you're on Sequoia as well.
 
-Update: Needed to change things again for 15.1. The update is live now.
+**Update**: Needed to change things again for 15.1. The update is live now.
