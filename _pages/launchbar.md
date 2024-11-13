@@ -8,7 +8,7 @@ This is a curated list of actions I built for [LaunchBar](https://www.obdev.at/p
 
 If you like what I am doing, please spread the word. You can also **sponsor** my LaunchBar projects via [Buy me a coffee](https://www.buymeacoffee.com/ptujec) or [PayPal](https://www.paypal.com/donate/?business=J3RS8S74NDJPU&no_recurring=0&currency_code=EUR). Thanks! ♥️
 
-<a href="https://github.com/Ptujec/LaunchBar/archive/refs/heads/master.zip"><svg xmlns="http://www.w3.org/2000/svg" id="download_all" viewBox="0 0 140 40" width="140" height="40"><g transform="matrix(1.01019,0,0,1,-1.42605,-0.000112576)"><path d="M140,7.506l0,24.988c0,4.143 -3.329,7.506 -7.43,7.506l-123.728,0c-4.101,0 -7.43,-3.363 -7.43,-7.506l-0,-24.988c-0,-4.143 3.329,-7.506 7.43,-7.506l123.728,0c4.101,0 7.43,3.363 7.43,7.506Z" style="fill:rgb(123,189,46);"/></g><text x="70" y="25.5" text-anchor="middle" style="font-family:-apple-system, sans-serif;font-size:18px;fill:white;">Download all</text></svg></a>
+<a href="https://github.com/Ptujec/LaunchBar/archive/refs/heads/master.zip"><svg xmlns="http://www.w3.org/2000/svg" id="download_all" viewBox="0 0 140 40" width="140" height="40"><g transform="matrix(1.01019,0,0,1,-1.42605,-0.000112576)"><path d="M140,7.506l0,24.988c0,4.143 -3.329,7.506 -7.43,7.506l-123.728,0c-4.101,0 -7.43,-3.363 -7.43,-7.506l-0,-24.988c-0,-4.143 3.329,-7.506 7.43,-7.506l123.728,0c4.101,0 7.43,3.363 7.43,7.506Z" style="fill:rgb(63,185,80);"/></g><text x="70" y="25.5" text-anchor="middle" style="font-family:-apple-system, sans-serif;font-size:18px;fill:white;">Download all</text></svg></a>
 
 Stay uptodate with [Local Action Updates](https://github.com/Ptujec/LaunchBar/tree/master/Local-Action-Updates#launchbar-action-local-action-updates).
 
