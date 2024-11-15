@@ -1,7 +1,7 @@
 ---
 title: LaunchBar Actions
 permalink: /launchbar/
-last_modified_at: 2024-11-11T11:17:13.231Z
+last_modified_at: 2024-11-15T19:04:45.387Z
 ---
 
 This is a curated list of actions I built for [LaunchBar](https://www.obdev.at/products/launchbar/index.html). If you find bugs, please [create an issue here](https://github.com/Ptujec/LaunchBar/issues/new). For questions and ideas, use the [discussions section on GitHub](https://github.com/Ptujec/LaunchBar/discussions).
@@ -48,6 +48,7 @@ Stay uptodate with [Local Action Updates](https://github.com/Ptujec/LaunchBar/tr
 - [Wikipedia (summary)](https://github.com/Ptujec/LaunchBar/tree/master/Search-Actions#websites)
 - [Time Zones for Cities](https://github.com/Ptujec/LaunchBar/tree/master/Timezones#readme)
 - [Mastodon](https://github.com/Ptujec/LaunchBar/tree/master/Mastodon#websites)
+- [Bluesky](https://github.com/Ptujec/LaunchBar/tree/master/Search-Actions#websites)
 - [Google Search (with DuckDuckGos version of Feeling Lucky)](https://github.com/Ptujec/LaunchBar/tree/master/Search-Actions#websites)
 - [MuseScore.com](https://github.com/Ptujec/LaunchBar/tree/master/Search-Actions#websites)
 - [Ultimate Guitar](https://github.com/Ptujec/LaunchBar/tree/master/Search-Actions#websites)
