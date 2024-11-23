@@ -1,7 +1,7 @@
 ---
 title: LaunchBar Actions
 permalink: /launchbar/
-last_modified_at: 2024-11-15T19:04:45.387Z
+last_modified_at: 2024-11-23T11:06:51.118Z
 ---
 
 This is a curated list of actions I built for [LaunchBar](https://www.obdev.at/products/launchbar/index.html). If you find bugs, please [create an issue here](https://github.com/Ptujec/LaunchBar/issues/new). For questions and ideas, use the [discussions section on GitHub](https://github.com/Ptujec/LaunchBar/discussions).
@@ -70,6 +70,7 @@ Stay uptodate with [Local Action Updates](https://github.com/Ptujec/LaunchBar/tr
 - [Quit Applications (by Context)](https://github.com/Ptujec/LaunchBar/tree/master/Quit-Applications#readme)
 - [Recent Office Documents](https://github.com/Ptujec/LaunchBar/tree/master/Recent-Office-Documents#readme)
 - [Recent Affinity Documents](https://github.com/Ptujec/LaunchBar/tree/master/Recent-Affinity-Documents)
+- [Recent MindNode Next Documents](https://github.com/Ptujec/LaunchBar/tree/master/Recent-MindNodeNext-Documents#launchbar-actions-recent-mindnode-next-documents)
 - [Run Shortcuts (with options to limit shortcuts to a specific folder)](https://github.com/Ptujec/LaunchBar/tree/master/Run-Shortcut#readme)
 - [Set alarm](https://github.com/Ptujec/LaunchBar/tree/master/Set-alarm#readme)
 - [Set timer](https://github.com/Ptujec/LaunchBar/tree/master/Set-timer#readme)
