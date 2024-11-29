@@ -1,7 +1,7 @@
 ---
 title: LaunchBar Actions
 permalink: /launchbar/
-last_modified_at: 2024-11-23T11:06:51.118Z
+last_modified_at: 2024-11-29T20:02:30.177Z
 ---
 
 This is a curated list of actions I built for [LaunchBar](https://www.obdev.at/products/launchbar/index.html). If you find bugs, please [create an issue here](https://github.com/Ptujec/LaunchBar/issues/new). For questions and ideas, use the [discussions section on GitHub](https://github.com/Ptujec/LaunchBar/discussions).
@@ -38,7 +38,7 @@ Stay uptodate with [Local Action Updates](https://github.com/Ptujec/LaunchBar/tr
 - [Paste Date](https://github.com/Ptujec/LaunchBar/tree/master/Paste-Date)
 - [Get Markdown Link from Safari](https://github.com/Ptujec/LaunchBar/tree/master/Text-Actions#readme) 
 - [Get RTF Link from Safari](https://github.com/Ptujec/LaunchBar/tree/master/Text-Actions#readme)
-- [Markdown to RTF Link](https://github.com/Ptujec/LaunchBar/tree/master/Text-Actions#readme)
+- [Markdown to Rich Text Format](https://github.com/Ptujec/LaunchBar/tree/master/Text-Actions#readme)
 
 ### Searches
 - [Unsplash](https://github.com/Ptujec/LaunchBar/tree/master/Search-Actions#websites)
