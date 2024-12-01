@@ -1,7 +1,7 @@
 ---
 title: "MindNode Next"
 date: 2024-12-01 22:58 +0200
-last_modified_at: 2024-12-01T23:15:16.829Z
+last_modified_at: 2024-12-01T23:42:49.051Z
 ---
 
 IdeasOnCanvas recently launched [MindNode Next](https://mindnode.com/post/mindnode-next-for-iphone-ipad-and-mac). Congrats, guys! 🎉  
@@ -20,7 +20,6 @@ I immediately missed recent documents in the new version, but [with some help](h
 
 ![Mindnode Next Press Screenshot](/assets/images/mindnode_next_lbaction.jpg)
 
-
 **Searching** works really well. I only hope I’ll be able to access it with LaunchBar eventually, as I do with the current version, so I can search via LaunchBar not only by title but also by content.  
 
 I need **custom themes**. I am just so used to them, especially to my smaller font sizes. I know it'll come. 
@@ -31,6 +30,10 @@ The biggest thing that keeps me from using the new version more is that currentl
 
 Linking to folders on my Mac also doesn't seem to work anymore.  
 
-And a maybe rather little funny detail: I always hide as much chrome as possible, but in the new version, I cannot hide the toolbar yet. My dream would be if all chrome would get automatically hidden as you work on a document, like iA Writer does. Just my ideas on a simple blank canvas ;)  
+And a maybe rather little funny detail: I always hide as much chrome as possible, but in the new version, I cannot hide the toolbar yet. My dream would be if all chrome would get automatically hidden as you work on a document, like iA Writer does. Just my ideas on a simple blank canvas ;) 
 
-But hey, it's early days … again. Looking forward to what's ahead.
+This maybe reads more like a bug report. It's not meant to be. And it is only because I want to use Next more.
+
+SVG Export, for example. I don't really know for what. Yet. But I think it is really cool that it's there.
+
+It's early days… again. Looking forward to what's ahead.
