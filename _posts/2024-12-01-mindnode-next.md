@@ -1,11 +1,12 @@
 ---
 title: "MindNode Next"
 date: 2024-12-01 22:58 +0200
+last_modified_at: 2024-12-01T23:10:01.389Z
 ---
 
 IdeasOnCanvas recently launched [MindNode Next](https://mindnode.com/post/mindnode-next-for-iphone-ipad-and-mac). Congrats, guys! 🎉  
 
-<iframe width="750" height="600" src="https://www.youtube.com/watch?v=wsnhReyt0ms" frameborder="0" allowfullscreen></iframe>
+![Mindnode Next Press Screenshot](/assets/images/mindnode_next.png)
 
 I've been using MindNode since its early days. It’s the app that got me into mind mapping, so I was obviously very excited to see what they have been working on.  
 
@@ -15,7 +16,10 @@ MindNode is an integral part of my workflow, so I am expecting it to take a whil
 
 Here are some of the things I have noticed so far.  
 
-I immediately missed recent documents in the new version, but [with some help](https://mastodon.cloud/@markusms/113511452877811649), I was able to fix that. ([You can find my LaunchBar action here](https://github.com/Ptujec/LaunchBar/tree/master/Recent-MindNodeNext-Documents).)  
+I immediately missed recent documents in the new version, but [with some help](https://mastodon.cloud/@markusms/113511452877811649), I was able to fix that. ([You can find my LaunchBar action here](https://github.com/Ptujec/LaunchBar/tree/master/Recent-MindNodeNext-Documents).) 
+
+![Mindnode Next Press Screenshot](/assets/images/mindnode_next_lbaction.jpg)
+
 
 **Searching** works really well. I only hope I’ll be able to access it with LaunchBar eventually, as I do with the current version, so I can search via LaunchBar not only by title but also by content.  
 
