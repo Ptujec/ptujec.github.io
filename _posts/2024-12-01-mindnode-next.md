@@ -1,12 +1,12 @@
 ---
 title: "MindNode Next"
 date: 2024-12-01 22:58 +0200
-last_modified_at: 2024-12-01T23:10:01.389Z
+last_modified_at: 2024-12-01T23:15:16.829Z
 ---
 
 IdeasOnCanvas recently launched [MindNode Next](https://mindnode.com/post/mindnode-next-for-iphone-ipad-and-mac). Congrats, guys! 🎉  
 
-![Mindnode Next Press Screenshot](/assets/images/mindnode_next.png)
+![Mindnode Next Press Screenshot](/assets/images/mindnode_next.jpg)
 
 I've been using MindNode since its early days. It’s the app that got me into mind mapping, so I was obviously very excited to see what they have been working on.  
 
