@@ -37,9 +37,3 @@ This may read a little negative for an excited user. This is only because I comp
 I also would like to test some of the new features in Next. So maybe someone wants to work together on a [third-party integrations mind map](https://www.icloud.com/share/039wg3nchAr-mt-7g9OKUNZbA#Mindmap_4) with me?
 
 In any case, I'm looking forward to what's ahead.
-
----
-Anmerkungen: 0,3427 SHA-256 dd6ec004299123902d03a30c6e4d4c34  
-&ChatGPT: 2688,3 2754 2970 3026 3050 3203,8 3267,3 3272 3390,4  
-@Christian: 723,2 2551 2683 2761,31 2793 3163,5 3266 3300,2 3366  
-...
