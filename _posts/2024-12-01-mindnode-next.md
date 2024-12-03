@@ -34,6 +34,6 @@ This may read a little negative for an excited user. This is only because I comp
 
 **I would recommend reading the [blog post](https://mindnode.com/post/mindnode-next-for-iphone-ipad-and-mac) to understand the reasons for that new version, where it is headed, and the improvements they have already added.** For me, just knowing they built a new base that will allow me to use one of my favorite tools in the future is reason enough to be excited.
 
-I also would like to test some of the new features in Next. So maybe someone wants to work together on a [third-party integrations mind map](https://www.icloud.com/share/039wg3nchAr-mt-7g9OKUNZbA#Mindmap_4) with me?
+I also would like to test some of the new features in Next. **So maybe someone wants to work together on a [third-party integrations mind map](https://www.icloud.com/share/039wg3nchAr-mt-7g9OKUNZbA#Mindmap_4) with me?**
 
 In any case, I'm looking forward to what's ahead.
