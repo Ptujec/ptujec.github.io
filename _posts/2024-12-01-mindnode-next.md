@@ -14,7 +14,7 @@ It did not disappoint. I think it will still take some time for me to fully swit
 
 MindNode is an integral part of my workflow, so I am expecting it to take a while before all this works with the new version (hopefully ;)).  
 
-Here are some of the things I have noticed so far:  
+**Here are some of the things I have noticed so far:**  
 
 I immediately missed recent documents in the new version, but [with some help](https://mastodon.cloud/@markusms/113511452877811649), I was able to fix that. ([You can find my LaunchBar action here](https://github.com/Ptujec/LaunchBar/tree/master/Recent-MindNodeNext-Documents).) 
 
