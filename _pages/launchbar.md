@@ -1,7 +1,7 @@
 ---
 title: LaunchBar Actions
 permalink: /launchbar/
-last_modified_at: 2024-11-29T20:02:30.177Z
+last_modified_at: 2024-12-07T23:37:40.434Z
 ---
 
 This is a curated list of actions I built for [LaunchBar](https://www.obdev.at/products/launchbar/index.html). If you find bugs, please [create an issue here](https://github.com/Ptujec/LaunchBar/issues/new). For questions and ideas, use the [discussions section on GitHub](https://github.com/Ptujec/LaunchBar/discussions).
@@ -22,9 +22,10 @@ Stay uptodate with [Local Action Updates](https://github.com/Ptujec/LaunchBar/tr
 - [Remove Duplicate Email Addresses](https://github.com/Ptujec/LaunchBar/tree/master/Text-Actions#readme)
 - [Post on Mastodon (and more)](https://github.com/Ptujec/LaunchBar/tree/master/Mastodon#3-post-action-toot)
 
-### Music
+### Music & Audio
 - [MuseScore Scores](https://github.com/Ptujec/LaunchBar/tree/master/MuseScore-Action#readme)
 - [Actions for Music.app (Shuffle, Like, Add to Playlist, Fade to next song …)](https://github.com/Ptujec/LaunchBar/tree/master/Music-Actions#readme)
+- [Add To PodQueue](https://github.com/Ptujec/LaunchBar/tree/master/PodQueue#launchbar-action-add-to-podqueue)
 
 ### Language & Translation
 - [DeepL Translator](https://github.com/Ptujec/LaunchBar/tree/master/DeepL-Action#readme)
