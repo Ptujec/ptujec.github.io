@@ -1,7 +1,7 @@
 ---
 title: LaunchBar Actions
 permalink: /launchbar/
-last_modified_at: 2024-12-07T23:37:40.434Z
+last_modified_at: 2024-12-08T19:28:14.559Z
 ---
 
 This is a curated list of actions I built for [LaunchBar](https://www.obdev.at/products/launchbar/index.html). If you find bugs, please [create an issue here](https://github.com/Ptujec/LaunchBar/issues/new). For questions and ideas, use the [discussions section on GitHub](https://github.com/Ptujec/LaunchBar/discussions).
@@ -79,12 +79,12 @@ Stay uptodate with [Local Action Updates](https://github.com/Ptujec/LaunchBar/tr
 - [Open text with iA Writer](https://github.com/Ptujec/LaunchBar/tree/master/Open-text-with-iA-Writer#readme)
 - [Mindnode Import Text](https://github.com/Ptujec/LaunchBar/tree/master/Mindnode-Import-Text#readme)
 - [URL scheme actions for "contextual computing" (Mail, iA Writer & MindNode)](https://github.com/Ptujec/LaunchBar/tree/master/URL-Scheme-Actions#readme)
-- [Gedankensalat - a scratchpad for ideas)](https://github.com/Ptujec/LaunchBar/tree/master/Gedankensalat#readme)
+- [Gedankensalat - a scratchpad for ideas](https://github.com/Ptujec/LaunchBar/tree/master/Gedankensalat#readme)
 
 ### System Info & Toggles
 - [Manage Notifications (e.g. dismiss all)](https://github.com/Ptujec/LaunchBar/tree/master/Notifications#readme)
 - [Speedtest](https://github.com/Ptujec/LaunchBar/tree/master/Speedtest#readme)
-- [Speak English/German](https://github.com/Ptujec/LaunchBar/tree/master/System-Actions#readme)
+- [Speak English/German/Spanish/French](https://github.com/Ptujec/LaunchBar/tree/master/System-Actions#readme)
 - [Day Night Mode Toggle](https://github.com/Ptujec/LaunchBar/tree/master/System-Actions#readme)
 - [Toggle Wi-Fi](https://github.com/Ptujec/LaunchBar/tree/master/System-Actions#readme)
 - [Uptime](https://github.com/Ptujec/LaunchBar/tree/master/System-Actions#readme)
