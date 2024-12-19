@@ -10,8 +10,11 @@ I had some fun coding recently. Maybe too much, haha. So here is a list of updat
 ## New
 
 1) [Add To PodQueue](https://github.com/Ptujec/LaunchBar/tree/master/PodQueue#launchbar-action-add-to-podqueue): New action to add video and audio from websites to PodQueue.  
+
 2) [New Text File](https://github.com/Ptujec/LaunchBar/tree/master/New-Text-File#launchbar-action-new-text-file-in-current-location): New action to create a text file in the current Finder location.  
+
 3) [Bluesky Search](https://github.com/Ptujec/LaunchBar/tree/master/Search-Actions#websites): New action to search Bluesky.  
+
 4) [New Spanish and French text-to-speech actions](https://github.com/Ptujec/LaunchBar/tree/master/System-Actions#launchbar-system-actions).
 
 ## Updates
@@ -38,9 +41,3 @@ Here are some more, with mostly minor fixes:
 - [Calculate with Soulver](https://github.com/Ptujec/LaunchBar/tree/master/Calculate-Soulver#launchbar-action-calculate-with-soulver)
 
 **[You can download these and view a list of all actions here.](https://ptujec.github.io/launchbar/)**
-
----
-Anmerkungen: 0,3489 SHA-256 ce5c2e6c18d1cf922de620252d6e6a24  
-&ChatGPT: 2616 2640 2867 2872,7  
-@Christian: 60,2 2613,3 2718,4 2838,29 2868,4 2879,13 2893,46  
-...
