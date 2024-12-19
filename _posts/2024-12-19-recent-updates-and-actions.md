@@ -3,9 +3,9 @@ title: "Recent Updates and Actions"
 date: 2024-12-19 14:33 +0100
 ---
 
-![](https://raw.githubusercontent.com/Ptujec/LaunchBar/master/header.jpg)
-
 I had some fun coding recently. Maybe too much, haha. So here is a list of updates. Some of them are substantial, while others are minor. I also built some new ones.
+
+![](https://raw.githubusercontent.com/Ptujec/LaunchBar/master/header.jpg)
 
 ## New
 
