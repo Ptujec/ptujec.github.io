@@ -24,7 +24,7 @@ I had some fun coding recently. Maybe too much, haha. So here is a list of updat
 
 4) [Todoist Inbox](https://github.com/Ptujec/LaunchBar/tree/master/Todoist-Inbox#launchbar-action-todoist-inbox): I added the option to use quotations to keep input from being parsed as dates or other things besides the title.  
 
-5) [Markdown Link to RTF](https://github.com/Ptujec/LaunchBar/tree/master/Text-Actions#launchbar-text-actions): Before, this action was only able to convert exactly one markdown formatted link at a time. Now it can handle multiple links and other text around it. It will still only format the links, though. I changed the name, so you won't find it in updates.  
+5) [Markdown Link to RTF](https://github.com/Ptujec/LaunchBar/tree/master/Text-Actions#launchbar-text-actions): Before, this action was only able to convert exactly one markdown formatted link at a time. Now it can handle multiple links and other text around it. It will still only format the links, though.
 
 ## Other updates
 
