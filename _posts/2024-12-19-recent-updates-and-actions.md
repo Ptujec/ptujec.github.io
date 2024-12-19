@@ -1,6 +1,6 @@
 ---
 title: "Recent Updates and Actions"
-date: 2024-12-19 14:33 +0100
+date: 2024-12-19 14:48 +0100
 ---
 
 I had some fun coding recently. Maybe too much, haha. So here is a list of updates. Some of them are substantial, while others are minor. I also built some new ones.
@@ -14,7 +14,7 @@ I had some fun coding recently. Maybe too much, haha. So here is a list of updat
 3) [Bluesky Search](https://github.com/Ptujec/LaunchBar/tree/master/Search-Actions#websites): New action to search Bluesky.  
 4) [New Spanish and French text-to-speech actions](https://github.com/Ptujec/LaunchBar/tree/master/System-Actions#launchbar-system-actions).
 
-## Big Updates
+## Updates
 
 1) [Notification actions](https://github.com/Ptujec/LaunchBar/tree/master/Notifications#launchbar-actions-for-managing-notifications) are ready for macOS 15.2.  
 
@@ -26,15 +26,21 @@ I had some fun coding recently. Maybe too much, haha. So here is a list of updat
 
 5) [Markdown Link to RTF](https://github.com/Ptujec/LaunchBar/tree/master/Text-Actions#launchbar-text-actions): Before, this action was only able to convert exactly one markdown formatted link at a time. Now it can handle multiple links and other text around it. It will still only format the links, though.
 
-## Other updates
+6) [Recent MindNode Next Documents](https://github.com/Ptujec/LaunchBar/tree/master/Recent-MindNodeNext-Documents#launchbar-actions-recent-mindnode-next-documents): This is still fairly new. But, with the latest update, this action is now able to properly show documents sorted by last viewed.  
 
-I'll just list those:
+7) [Scratchpad](https://github.com/Ptujec/LaunchBar/tree/master/Gedankensalat#launchbar-action-gedankensalat-scratchpad): I simplified how this works to better fit my needs.
 
-- [Recent MindNode Next Documents](https://github.com/Ptujec/LaunchBar/tree/master/Recent-MindNodeNext-Documents#launchbar-actions-recent-mindnode-next-documents)  
+Here are some more, with mostly minor fixes:
+
 - [NBA Action](https://github.com/Ptujec/LaunchBar/tree/master/NBA-Scoreboard#launchbar-action-nba-scoreboard)  
 - [Verbs](https://github.com/Ptujec/LaunchBar/tree/master/Verbs-Action#launchbar-action-verbs)  
 - [Set Alarm](https://github.com/Ptujec/LaunchBar/tree/master/Set-alarm#launchbar-action-set-alarm)  
-- [Scratchpad](https://github.com/Ptujec/LaunchBar/tree/master/Gedankensalat#launchbar-action-gedankensalat-scratchpad)  
-- [Calculate with Soulver](https://github.com/Ptujec/LaunchBar/tree/master/Calculate-Soulver#launchbar-action-calculate-with-soulver) (tiny change)
+- [Calculate with Soulver](https://github.com/Ptujec/LaunchBar/tree/master/Calculate-Soulver#launchbar-action-calculate-with-soulver)
 
 **[You can download these and view a list of all actions here.](https://ptujec.github.io/launchbar/)**
+
+---
+Anmerkungen: 0,3489 SHA-256 ce5c2e6c18d1cf922de620252d6e6a24  
+&ChatGPT: 2616 2640 2867 2872,7  
+@Christian: 60,2 2613,3 2718,4 2838,29 2868,4 2879,13 2893,46  
+...
