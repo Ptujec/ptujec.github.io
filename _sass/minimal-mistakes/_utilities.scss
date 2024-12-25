@@ -256,11 +256,11 @@ $text-alignments: left, right, start, end, center, justify;
   }
 
   &:before {
-    top: (-2.4 * $navicon-height);
+    top: (-2.5 * $navicon-height);
   }
 
   &:after {
-    bottom: (-2.4 * $navicon-height);
+    bottom: (-2.5 * $navicon-height);
   }
 }
 
