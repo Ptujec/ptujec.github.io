@@ -1,10 +1,10 @@
 ---
 title: Shortcuts
 permalink: /shortcuts/
-last_modified_at: 2024-12-25T17:25:53.246Z
+last_modified_at: 2024-12-25T17:54:01.846Z
 ---
 
-I use Shortcuts mostly on iOS. I do my automation mostly in [LaunchBar](https://ptujec.github.io/launchbar). But sometimes, even on macOS, a Shortcut is the better solution. 
+Shortcuts are great on iOS. On macOS I do my automation mostly in [LaunchBar](https://ptujec.github.io/launchbar). But sometimes, even on macOS, a Shortcut is the better solution. 
 
 So here is my (for now small) list of shortcuts: 
 
