@@ -1,5 +1,5 @@
 ---
-title: "Swift, CoreAudio, AirPlay and a new action"
+title: "Swift, CoreAudio, AirPlay and a New LaunchBar Action"
 date: 2025-01-27 20:31 +0100
 ---
 
