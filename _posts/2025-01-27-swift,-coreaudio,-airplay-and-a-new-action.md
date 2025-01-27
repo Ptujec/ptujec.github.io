@@ -1,0 +1,14 @@
+---
+title: "Swift, CoreAudio, AirPlay and a new action"
+date: 2025-01-27 20:31 +0100
+---
+
+So, I am not really a developer. Meaning, I stumbled into it as a tinkerer. I started with Automator workflows and some AppleScript. Later I went through a JavaScript course to learn how to make use of LaunchBar's [JavaScript implementation](https://developer.obdev.at/launchbar-developer-documentation/#/implementing-actions-javascript). This has been a game changer for me. It is now my favorite way to write LaunchBar actions (especially since I set up snippets in VS Code to make it easier to use the LaunchBar-specific functionality). 
+
+Some time ago, I dabbled into a new challenge: Swift. Why? It allows me to use APIs that are not available through JavaScript (e.g., EventKit, Contacts, CoreAudio). But it sure has its downsides. Sharing actions written in Swift is not as easy. Uncompiled Swift code performs poorly, and compiling it leads to malware alerts if the code is not signed. I addressed that with a dedicated [Compile Swift Action](https://github.com/Ptujec/LaunchBar/tree/master/Compile-Swift-Action). But it is not as straightforward as I wish it would be. 
+
+**The upside is worth it, though.** I converted a few of my window management actions from AppleScript to Swift, and the difference in performance is definitely noticeable. I'll share them at some point. Let me know if you are interested; that might speed it up a little ;). 
+
+I just shared the product of my latest adventure, a [LaunchBar action to switch audio devices](https://github.com/Ptujec/LaunchBar/tree/master/Audio-Devices#readme). I sometimes hear developers complain about certain APIs. I think I stumbled upon one of those this time. [CoreAudio either intentionally or unintentionally does not list unconnected AirPlay devices](https://developer.apple.com/forums/thread/17664). Sigh! Oh, and when connected, AirPlay devices don't show their real name. It could have been so great. As far as I am aware no extension of other Launchers has a solution that is working. So I was extra motivated to find one. But I guess there is a reason others don't have a good one. I eventually gave in and decided to use GUI scripting for that part. It's not the worst, but not ideal either, because it needs System Settings to show. 
+
+Otherwise, the action is really, really snappy. In order to keep it that way AirPlay devices need to be added manually by holding `Shift`. Once added, they should stick around. And if the stars align, or rather if you also have a Bluetooth audio device connected, you might even be able to switch to your AirPlay devices without the workaround after the first time. No promise, though.
