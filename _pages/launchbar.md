@@ -1,7 +1,7 @@
 ---
 title: LaunchBar Actions
 permalink: /launchbar/
-last_modified_at: 2025-01-27T18:03:17.523Z
+last_modified_at: 2025-01-28T20:56:41.648Z
 ---
 
 This is a curated list of actions I built for [LaunchBar](https://www.obdev.at/products/launchbar/index.html). If you find bugs, please [create an issue here](https://github.com/Ptujec/LaunchBar/issues/new). For questions and ideas, use the [discussions section on GitHub](https://github.com/Ptujec/LaunchBar/discussions).
@@ -37,11 +37,17 @@ Use [Local Action Updates](https://github.com/Ptujec/LaunchBar/tree/master/Local
 
 ### Writing
 - [Writing Tools](https://github.com/Ptujec/LaunchBar/tree/master/Writing-Tools#readme)
+- [New Text File in Current Location](https://github.com/Ptujec/LaunchBar/tree/master/New-Text-File#launchbar-action-new-text-file-in-current-location)
 - [Paste Date](https://github.com/Ptujec/LaunchBar/tree/master/Paste-Date)
+- [Markdown to Rich Text Format](https://github.com/Ptujec/LaunchBar/tree/master/Text-Actions#readme)
+
+### Browser & Bookmarks
+- [Open in Browser Actions](https://github.com/Ptujec/LaunchBar/tree/master/Browser-Actions#readme)
+- [Arc Browser History](https://github.com/Ptujec/LaunchBar/tree/master/Arc-History#launchbar-action-arc-history)
+- [Brave History](https://github.com/Ptujec/LaunchBar/tree/master/Brave-History#launchbar-action-brave-browser-history)
+- [Bookmark actions for Raindrop.io](https://github.com/Ptujec/LaunchBar/tree/master/Raindrop-Actions#readme)
 - [Get Markdown Link from Safari](https://github.com/Ptujec/LaunchBar/tree/master/Text-Actions#readme) 
 - [Get RTF Link from Safari](https://github.com/Ptujec/LaunchBar/tree/master/Text-Actions#readme)
-- [Markdown to Rich Text Format](https://github.com/Ptujec/LaunchBar/tree/master/Text-Actions#readme)
-- [New Text File in Current Location](https://github.com/Ptujec/LaunchBar/tree/master/New-Text-File#launchbar-action-new-text-file-in-current-location)
 
 ### Searches
 - [Unsplash](https://github.com/Ptujec/LaunchBar/tree/master/Search-Actions#websites)
@@ -77,7 +83,6 @@ Use [Local Action Updates](https://github.com/Ptujec/LaunchBar/tree/master/Local
 - [Run Shortcuts (with options to limit shortcuts to a specific folder)](https://github.com/Ptujec/LaunchBar/tree/master/Run-Shortcut#readme)
 - [Set alarm](https://github.com/Ptujec/LaunchBar/tree/master/Set-alarm#readme)
 - [Set timer](https://github.com/Ptujec/LaunchBar/tree/master/Set-timer#readme)
-- [Bookmark actions for Raindrop.io](https://github.com/Ptujec/LaunchBar/tree/master/Raindrop-Actions#readme)
 - [Open text with iA Writer](https://github.com/Ptujec/LaunchBar/tree/master/Open-text-with-iA-Writer#readme)
 - [Mindnode Import Text](https://github.com/Ptujec/LaunchBar/tree/master/Mindnode-Import-Text#readme)
 - [URL scheme actions for "contextual computing" (Mail, iA Writer & MindNode)](https://github.com/Ptujec/LaunchBar/tree/master/URL-Scheme-Actions#readme)
@@ -113,7 +118,6 @@ Use [Local Action Updates](https://github.com/Ptujec/LaunchBar/tree/master/Local
 - [Spellcheck toggle](https://github.com/Ptujec/LaunchBar/tree/master/GUI-Scripting-Actions#readme)
 
 ### Other
-- [Arc Browser History](https://github.com/Ptujec/LaunchBar/tree/master/Arc-History#launchbar-action-arc-history)
 - [Ask ChatGPT](https://github.com/Ptujec/LaunchBar/tree/master/Ask-ChatGPT#launchbar-action-ask-chatgpt)
 - [Passwords for 1Password 8](https://github.com/Ptujec/LaunchBar/tree/master/Passwords#launchbar-action-passwords-for-1password-8)
 - [YNAB](https://github.com/Ptujec/LaunchBar/tree/master/YNAB-Actions#readme)
@@ -122,7 +126,6 @@ Use [Local Action Updates](https://github.com/Ptujec/LaunchBar/tree/master/Local
 - [Calculate with Soulver](https://github.com/Ptujec/LaunchBar/tree/master/Calculate-Soulver#readme)
 - [Currency Converter](https://github.com/Ptujec/LaunchBar/tree/master/Converter-Actions#currency-converter-action)
 - [Celsius ⇄ Fahrenheit Converter](https://github.com/Ptujec/LaunchBar/tree/master/Converter-Actions#other-actions)
-- [Browser Actions](https://github.com/Ptujec/LaunchBar/tree/master/Browser-Actions#readme)
 - [Capture Text (powered by macOCR)](https://github.com/Ptujec/LaunchBar/tree/master/Capture-Text#readme)
 - [NBA Scoreboard](https://github.com/Ptujec/LaunchBar/tree/master/NBA-Scoreboard#readme)
 - [Dad Jokes](https://github.com/Ptujec/LaunchBar/tree/master/Dad-Jokes#launchbar-action-dad-jokes)
