@@ -1,6 +1,6 @@
 ---
 title: "The Unique Power of Browsing in LaunchBar"
-date: 2025-02-03 14:47 +0100
+date: 2025-02-04 09:15 +0100
 ---
 
 I recently stumbled upon a cool little detail in the [LaunchBar developer documentation](https://developer.obdev.at/launchbar-developer-documentation/#/script-output) that I was not aware of before: `actionReturnsItems`. Here is the description:
@@ -25,4 +25,4 @@ The possibilities are endless. And it is so simple. You can do it all just with 
 
 I have checked out the Zotero extension of other launchers. They offer some great features, but they are mostly reproducing what you can do within the native interface. There is value in this … especially since the Zotero interface used to be a bit slow before [version 7](https://www.zotero.org/blog/zotero-7/). But LaunchBar's way of browsing opens up possibilities that add value beyond that.
 
-It's thoughtful design like that that makes it stand out to me even after all those years and all the hype around its competitors.
+It's thoughtful design like that that makes LaunchBar stand out to me even after all those years and all the hype around its competitors.
