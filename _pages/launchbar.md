@@ -73,7 +73,7 @@ My [LaunchBar Repo Updates](https://github.com/Ptujec/LaunchBar/tree/master/LB-R
 - [Maps (including route and what3words support)](https://github.com/Ptujec/LaunchBar/tree/master/Search-Maps#readme)
 
 ### Productivity
-- [Menu Bar (powered by Finbar)](https://github.com/Ptujec/LaunchBar/tree/master/Menu-Bar#launchbar-action-menu-bar-powered-by-finbar)
+- [Menus](https://github.com/Ptujec/LaunchBar/tree/master/Menus#launchbar-action-menus)
 - [Window Managment Actions](https://github.com/Ptujec/LaunchBar/tree/master/Window-Actions#readme)
 - [Join Meeting](https://github.com/Ptujec/LaunchBar/tree/master/Join-Meeting#readme)
 - [Todoist Inbox](https://github.com/Ptujec/LaunchBar/tree/master/Todoist-Inbox#how-it-works)
