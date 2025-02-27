@@ -1,7 +1,7 @@
 ---
 title: LaunchBar Actions
 permalink: /launchbar/
-last_modified_at: 2025-02-27T19:22:11.324Z
+last_modified_at: 2025-02-27T21:01:32.040Z
 ---
 
 This is a curated list of actions I built for [LaunchBar](https://www.obdev.at/products/launchbar/index.html). If you find bugs, please [create an issue here](https://github.com/Ptujec/LaunchBar/issues/new). For questions and ideas, use the [discussions section on GitHub](https://github.com/Ptujec/LaunchBar/discussions).
@@ -10,9 +10,7 @@ If you like what I am doing, please spread the word. You can also **sponsor** my
 
 <a href="https://github.com/Ptujec/LaunchBar/archive/refs/heads/master.zip"><svg xmlns="http://www.w3.org/2000/svg" id="download_all" viewBox="0 0 140 40" width="140" height="40"><g transform="matrix(1.01019,0,0,1,-1.42605,-0.000112576)"><path d="M140,7.506l0,24.988c0,4.143 -3.329,7.506 -7.43,7.506l-123.728,0c-4.101,0 -7.43,-3.363 -7.43,-7.506l-0,-24.988c-0,-4.143 3.329,-7.506 7.43,-7.506l123.728,0c4.101,0 7.43,3.363 7.43,7.506Z" style="fill:rgb(63,185,80);"/></g><text x="70" y="25.5" text-anchor="middle" style="font-family:-apple-system, sans-serif;font-size:18px;fill:white;">Download all</text></svg></a>
 
-### Updates
-
-My [LaunchBar Repo Updates](https://github.com/Ptujec/LaunchBar/tree/master/LB-Repo-Updates) action in combination with [Local Action Updates](https://github.com/Ptujec/LaunchBar/tree/master/Local-Action-Updates#launchbar-action-local-action-updates) is the **easiest way to stay up to date** on all my actions and discover new ones at the same time. 
+Or simply use [LaunchBar Repo Updates](https://github.com/Ptujec/LaunchBar/tree/master/LB-Repo-Updates#launchbar-repo-updates-action)! It is the **easiest way to stay up to date** on all my actions and discover new ones at the same time. 
 
 ### Bible
 - [Accordance Actions](https://github.com/Ptujec/LaunchBar/tree/master/Accordance-Actions#readme)
