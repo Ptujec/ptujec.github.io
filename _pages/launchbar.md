@@ -1,7 +1,7 @@
 ---
 title: LaunchBar Actions
 permalink: /launchbar/
-last_modified_at: 2025-02-22T13:14:39.604Z
+last_modified_at: 2025-02-27T19:22:11.324Z
 ---
 
 This is a curated list of actions I built for [LaunchBar](https://www.obdev.at/products/launchbar/index.html). If you find bugs, please [create an issue here](https://github.com/Ptujec/LaunchBar/issues/new). For questions and ideas, use the [discussions section on GitHub](https://github.com/Ptujec/LaunchBar/discussions).
@@ -48,8 +48,8 @@ My [LaunchBar Repo Updates](https://github.com/Ptujec/LaunchBar/tree/master/LB-R
 - [Arc Browser History](https://github.com/Ptujec/LaunchBar/tree/master/Arc-History#launchbar-action-arc-history)
 - [Brave History](https://github.com/Ptujec/LaunchBar/tree/master/Brave-History#launchbar-action-brave-browser-history)
 - [Bookmark actions for Raindrop.io](https://github.com/Ptujec/LaunchBar/tree/master/Raindrop-Actions#readme)
-- [Get Markdown Link from Safari](https://github.com/Ptujec/LaunchBar/tree/master/Text-Actions#readme) 
-- [Get RTF Link from Safari](https://github.com/Ptujec/LaunchBar/tree/master/Text-Actions#readme)
+- [Link to Website](https://github.com/Ptujec/LaunchBar/tree/master/Link-To-Website#launchbar-action-link-to-website)
+
 
 ### Searches
 - [Unsplash](https://github.com/Ptujec/LaunchBar/tree/master/Search-Actions#websites)
