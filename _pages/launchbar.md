@@ -1,7 +1,7 @@
 ---
 title: LaunchBar Actions
 permalink: /launchbar/
-last_modified_at: 2025-03-03T16:41:07.771Z
+last_modified_at: 2025-03-04T20:47:07.500Z
 ---
 
 This is a curated list of actions I built for [LaunchBar](https://www.obdev.at/products/launchbar/index.html). If you find bugs, please [create an issue here](https://github.com/Ptujec/LaunchBar/issues/new). For questions and ideas, use the [discussions section on GitHub](https://github.com/Ptujec/LaunchBar/discussions).
@@ -123,6 +123,7 @@ Or simply use [LaunchBar Repo Updates](https://github.com/Ptujec/LaunchBar/tree/
 - [Ask ChatGPT](https://github.com/Ptujec/LaunchBar/tree/master/Ask-ChatGPT#launchbar-action-ask-chatgpt)
 - [Passwords for 1Password 8](https://github.com/Ptujec/LaunchBar/tree/master/Passwords#launchbar-action-passwords-for-1password-8)
 - [YNAB](https://github.com/Ptujec/LaunchBar/tree/master/YNAB-Actions#readme)
+- [Actual Budget](https://github.com/Ptujec/LaunchBar/tree/master/Actual-Budget#readme)
 - [SRT Timestamp (for QuickTime)](https://github.com/Ptujec/LaunchBar/tree/master/SRT-Timestamp#readme)
 - [Password Generator](https://github.com/Ptujec/LaunchBar/tree/master/Password-Generator#readme)
 - [Calculate with Soulver](https://github.com/Ptujec/LaunchBar/tree/master/Calculate-Soulver#readme)
