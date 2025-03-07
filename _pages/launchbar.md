@@ -1,7 +1,7 @@
 ---
 title: LaunchBar Actions
 permalink: /launchbar/
-last_modified_at: 2025-03-04T20:47:07.500Z
+last_modified_at: 2025-03-07T12:19:59.721Z
 ---
 
 This is a curated list of actions I built for [LaunchBar](https://www.obdev.at/products/launchbar/index.html). If you find bugs, please [create an issue here](https://github.com/Ptujec/LaunchBar/issues/new). For questions and ideas, use the [discussions section on GitHub](https://github.com/Ptujec/LaunchBar/discussions).
@@ -70,6 +70,7 @@ Or simply use [LaunchBar Repo Updates](https://github.com/Ptujec/LaunchBar/tree/
 - [Notes](https://github.com/Ptujec/LaunchBar/tree/master/Search-Notes#apps)
 - [Obsidian](https://github.com/Ptujec/LaunchBar/tree/master/Obsidian-Actions#apps)
 - [Maps (including route and what3words support)](https://github.com/Ptujec/LaunchBar/tree/master/Search-Maps#readme)
+- [Search Apple Music (with suggestions)](https://github.com/Ptujec/LaunchBar/tree/master/GUI-Scripting-Actions#readme)
 
 ### Productivity
 - [Menus](https://github.com/Ptujec/LaunchBar/tree/master/Menus#launchbar-action-menus)
@@ -97,8 +98,9 @@ Or simply use [LaunchBar Repo Updates](https://github.com/Ptujec/LaunchBar/tree/
 - [Toggle Wi-Fi](https://github.com/Ptujec/LaunchBar/tree/master/System-Actions#readme)
 - [Uptime](https://github.com/Ptujec/LaunchBar/tree/master/System-Actions#readme)
 - [Every Process (with CPU usage)](https://github.com/Ptujec/LaunchBar/tree/master/Every-Process#readme)
-- [Bluetooth Toggle](https://github.com/Ptujec/LaunchBar/tree/master/Bluetooth-Toggle#readme) (… needs update for Ventura)
-- [System Settings Ventura](https://github.com/Ptujec/LaunchBar/tree/master/System-Settings-Ventura#readme)
+- [Bluetooth Toggle](https://github.com/Ptujec/LaunchBar/tree/master/Bluetooth-Toggle#readme)
+- [Spellcheck (German, English, Slovenian, Automatic)](https://github.com/Ptujec/LaunchBar/tree/master/GUI-Scripting-Actions#readme)
+- [Spellcheck toggle](https://github.com/Ptujec/LaunchBar/tree/master/GUI-Scripting-Actions#readme)
 
 ### Design & Development
 - [Color Palette from Website](https://github.com/Ptujec/LaunchBar/tree/master/Color-Actions#color-palette-from-website)
@@ -111,27 +113,24 @@ Or simply use [LaunchBar Repo Updates](https://github.com/Ptujec/LaunchBar/tree/
 - [Unicode Function Keys](https://github.com/Ptujec/LaunchBar/tree/master/Unicode-Function-Keys#readme)
 - [Replace Commas with Linebreaks](https://github.com/Ptujec/LaunchBar/tree/master/Text-Actions#readme)
 - [Extended Attributes](https://codeberg.org/Ptujec/LaunchBar/src/branch/main/Extended-Attributes)
-
-### Actions that rely on GUI scripting 
 - [GUI Elements](https://github.com/Ptujec/LaunchBar/tree/master/GUI-Scripting-Actions#readme)
-- [Mitteilungszentrale anzeigen](https://github.com/Ptujec/LaunchBar/tree/master/GUI-Scripting-Actions#readme)
-- [Search Apple Music (with Google suggestions)](https://github.com/Ptujec/LaunchBar/tree/master/GUI-Scripting-Actions#readme)
-- [Spellcheck (German, English, Slovenian, Automatic)](https://github.com/Ptujec/LaunchBar/tree/master/GUI-Scripting-Actions#readme)
-- [Spellcheck toggle](https://github.com/Ptujec/LaunchBar/tree/master/GUI-Scripting-Actions#readme)
+
+### Entertainment
+- [NBA Scoreboard](https://github.com/Ptujec/LaunchBar/tree/master/NBA-Scoreboard#readme)
+- [Dad Jokes](https://github.com/Ptujec/LaunchBar/tree/master/Dad-Jokes#launchbar-action-dad-jokes)
 
 ### Other
 - [Ask ChatGPT](https://github.com/Ptujec/LaunchBar/tree/master/Ask-ChatGPT#launchbar-action-ask-chatgpt)
 - [Passwords for 1Password 8](https://github.com/Ptujec/LaunchBar/tree/master/Passwords#launchbar-action-passwords-for-1password-8)
-- [YNAB](https://github.com/Ptujec/LaunchBar/tree/master/YNAB-Actions#readme)
 - [Actual Budget](https://github.com/Ptujec/LaunchBar/tree/master/Actual-Budget#readme)
+- [YNAB](https://github.com/Ptujec/LaunchBar/tree/master/YNAB-Actions#readme)
 - [SRT Timestamp (for QuickTime)](https://github.com/Ptujec/LaunchBar/tree/master/SRT-Timestamp#readme)
 - [Password Generator](https://github.com/Ptujec/LaunchBar/tree/master/Password-Generator#readme)
 - [Calculate with Soulver](https://github.com/Ptujec/LaunchBar/tree/master/Calculate-Soulver#readme)
 - [Currency Converter](https://github.com/Ptujec/LaunchBar/tree/master/Converter-Actions#currency-converter-action)
 - [Celsius ⇄ Fahrenheit Converter](https://github.com/Ptujec/LaunchBar/tree/master/Converter-Actions#other-actions)
+- [Scan QR Code](https://github.com/Ptujec/LaunchBar/tree/master/Scan-QR-Code)
 - [Capture Text (powered by macOCR)](https://github.com/Ptujec/LaunchBar/tree/master/Capture-Text#readme)
-- [NBA Scoreboard](https://github.com/Ptujec/LaunchBar/tree/master/NBA-Scoreboard#readme)
-- [Dad Jokes](https://github.com/Ptujec/LaunchBar/tree/master/Dad-Jokes#launchbar-action-dad-jokes)
 
 ### Relevant for Slovenia
 - [Slovene Language Tools by CJVT (Kolokacije, Sopomenke, Sloleks, Gigafida)](https://github.com/Ptujec/LaunchBar/tree/master/Slovene-Actions#slovene-language-tools-by-cjvt)
