@@ -9,7 +9,7 @@ Users have made efforts to address this issue, most notably Padraic Renaghan. [H
 
 I have learned through my interactions with the fine folks at Objective Development that implementing something like this on their side has more implications than one might think.
 
-So, unfortunately, this is not a spoiler of some grand secret plans. Neither do I have the magic pill to solve this. **Buuuut I may have a new action that might come at least closer to a solution.**
+So, unfortunately, this is not a spoiler of some grand secret plan. Neither do I have the magic pill to solve this. **Buuuut I may have a new action that might come at least closer to a solution.**
 
 You can read all about it [here](https://github.com/Ptujec/LaunchBar/tree/master/LB-Repo-Updates#launchbar-repo-updates-action).
 
