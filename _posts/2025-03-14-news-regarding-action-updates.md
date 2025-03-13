@@ -1,6 +1,6 @@
 ---
 title: "News Regarding Action Updates"
-date: 2025-03-14 00:03 +0100
+date: 2025-03-14 00:17 +0100
 ---
 
 Action Updates have been a talking point since Objective Development introduced LaunchBar Actions with version 6 back in June 2014.
@@ -15,4 +15,4 @@ You can read all about it [here](https://github.com/Ptujec/LaunchBar/tree/master
 
 ![](https://raw.githubusercontent.com/Ptujec/LaunchBar/refs/heads/master/LB-Repo-Updates/02.jpg)
 
-BTW: I have pushed a bunch of updates recently and also added a few new actions like e.g., "[Scan QR Code](https://github.com/Ptujec/LaunchBar/tree/master/Scan-QR-Code#launchbar-action-scan-qr-code)" or "[Actual Budget](https://github.com/Ptujec/LaunchBar/tree/master/Actual-Budget#readme)".
+BTW: I have pushed a bunch of updates recently and also added a few new actions like e.g. "[Menus](https://github.com/Ptujec/LaunchBar/tree/master/Menus#launchbar-action-menus)", "[Scan QR Code](https://github.com/Ptujec/LaunchBar/tree/master/Scan-QR-Code#launchbar-action-scan-qr-code)" or "[Actual Budget](https://github.com/Ptujec/LaunchBar/tree/master/Actual-Budget#readme)".
