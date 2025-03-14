@@ -11,7 +11,7 @@ I have learned from the fine folks at Objective Development that implementing so
 
 So, I was wondering what I could do about it. My first attempt at a different approach was [Local Action Updates](https://github.com/Ptujec/LaunchBar/tree/master/Local-Action-Updates#launchbar-action-local-action-updates). But something was missing. I noticed this when I installed new actions for family members. Downloading the entire repo every time seemed unnecessary.
 
-This is how this "LaunchBar Repo Updates" came about. **It's the missing link to a simple and fast way to update custom LaunchBar actions that are shared in repositories like mine.**
+This is how "LaunchBar Repo Updates" came about. **It's the missing link to a simple and fast way to update custom LaunchBar actions that are shared in repositories like mine.**
 
 **[Check it out!](https://github.com/Ptujec/LaunchBar/tree/master/LB-Repo-Updates#launchbar-repo-updates-action)**
 
