@@ -3,7 +3,7 @@ title: "News Regarding Action Updates"
 date: 2025-03-14 11:45 +0100
 ---
 
-Action Updates have been a talking point since Objective Development introduced LaunchBar Actions with version 6 back in June 2014.
+Action Updates have been a talking point since Objective Development [introduced LaunchBar Actions with version 6 back in June 2014](https://www.obdev.at/blog/launchbar-6-released/).
 
 Early on, users made efforts to address the lack of a way to update actions, most notably Padraic Renaghan. In my experience, [his update action](https://renaghan.com/launchbar/action-updates/) works well if you only use a few custom actions and if the action developer has provided support for it. Unfortunately, this is not always the case.
 
