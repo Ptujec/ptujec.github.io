@@ -20,9 +20,3 @@ This is how this "LaunchBar Repo Updates" came about. **It's the missing link to
 PS: I have pushed a bunch of updates recently and also added a few new actions, like [Menus](https://github.com/Ptujec/LaunchBar/tree/master/Menus#launchbar-action-menus), [Scan QR Code](https://github.com/Ptujec/LaunchBar/tree/master/Scan-QR-Code#launchbar-action-scan-qr-code), and [Actual Budget](https://github.com/Ptujec/LaunchBar/tree/master/Actual-Budget#readme).
 
 PSS: The most user-friendly thing would probably be a dedicated app in the style of [Latest](https://max.codes/latest/). But for now, I am pretty happy with this combination of actions.
-
----
-Anmerkungen: 0,2144 SHA-256 02c9e7c8273f4a0fe5d5ed297196309c  
-&ChatGPT: 218 334 720 980,2 1031 1665 1757,2 1865 1977 2091  
-@Christian: 63,2 210,8 219,2 250,35 318,16 335 337 340,7 552,2 569,4 666,10 718,2 721,43 1012,3 1016,15 1032 1109 1132 1146,2 1169,4 1267,4 1272,3 1276,2 1279,13 1388,2 1392 1489,2 1584 1587,2 1867,3 1957,7 2083,8  
-...
