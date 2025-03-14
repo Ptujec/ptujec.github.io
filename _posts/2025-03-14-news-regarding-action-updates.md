@@ -1,6 +1,6 @@
 ---
 title: "News Regarding Action Updates"
-date: 2025-03-14 11:45 +0100
+date: 2025-03-14 14:30 +0100
 ---
 
 Action Updates have been a talking point since Objective Development [introduced LaunchBar Actions with version 6 back in June 2014](https://www.obdev.at/blog/launchbar-6-released/).
@@ -15,7 +15,7 @@ This is how "LaunchBar Repo Updates" came about. **It's the missing link to a si
 
 **[Check it out!](https://github.com/Ptujec/LaunchBar/tree/master/LB-Repo-Updates#launchbar-repo-updates-action)**
 
-[![](https://raw.githubusercontent.com/Ptujec/LaunchBar/refs/heads/master/LB-Repo-Updates/02.jpg)](https://github.com/Ptujec/LaunchBar/tree/master/LB-Repo-Updates#launchbar-repo-updates-action)
+<a href="https://github.com/Ptujec/LaunchBar/tree/master/LB-Repo-Updates#launchbar-repo-updates-action"><img src="https://raw.githubusercontent.com/Ptujec/LaunchBar/refs/heads/master/LB-Repo-Updates/02.jpg" style="max-width: 500px; width: 100%; height: auto;"></a>
 
 PS: I have pushed a bunch of updates recently and also added a few new actions, like [Menus](https://github.com/Ptujec/LaunchBar/tree/master/Menus#launchbar-action-menus), [Scan QR Code](https://github.com/Ptujec/LaunchBar/tree/master/Scan-QR-Code#launchbar-action-scan-qr-code), and [Actual Budget](https://github.com/Ptujec/LaunchBar/tree/master/Actual-Budget#readme).
 
