@@ -1,7 +1,7 @@
 ---
 title: LaunchBar Actions
 permalink: /launchbar/
-last_modified_at: 2025-03-07T12:19:59.721Z
+last_modified_at: 2025-03-17T16:58:53.466Z
 ---
 
 This is a curated list of actions I built for [LaunchBar](https://www.obdev.at/products/launchbar/index.html). If you find bugs, please [create an issue here](https://github.com/Ptujec/LaunchBar/issues/new). For questions and ideas, use the [discussions section on GitHub](https://github.com/Ptujec/LaunchBar/discussions).
@@ -51,7 +51,7 @@ Or simply use [LaunchBar Repo Updates](https://github.com/Ptujec/LaunchBar/tree/
 
 
 ### Searches
-- [Unsplash](https://github.com/Ptujec/LaunchBar/tree/master/Search-Actions#websites)
+- [Synonyms (Woxikon)](https://github.com/Ptujec/LaunchBar/tree/master/Synonyms-Woxikon)
 - [DuckDuckGo (with "Feeling ducky")](https://github.com/Ptujec/LaunchBar/tree/master/Search-Actions#websites)
 - [Kagi.com](https://github.com/Ptujec/LaunchBar/tree/master/Search-Actions#websites)
 - [Phind](https://github.com/Ptujec/LaunchBar/tree/master/Search-Actions#websites)
