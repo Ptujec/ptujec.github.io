@@ -1,7 +1,7 @@
 ---
 title: LaunchBar Actions
 permalink: /launchbar/
-last_modified_at: 2025-03-24T19:26:23.630Z
+last_modified_at: 2025-03-27T16:32:08.878Z
 ---
 
 This is a curated list of actions I built for [LaunchBar](https://www.obdev.at/products/launchbar/index.html). If you find bugs, please [create an issue here](https://github.com/Ptujec/LaunchBar/issues/new). For questions and ideas, use the [discussions section on GitHub](https://github.com/Ptujec/LaunchBar/discussions).
@@ -73,10 +73,11 @@ Or simply use [LaunchBar Repo Updates](https://github.com/Ptujec/LaunchBar/tree/
 
 ### Productivity
 - [Menus](https://github.com/Ptujec/LaunchBar/tree/master/Menus#launchbar-action-menus)
-- [Window Managment Actions](https://github.com/Ptujec/LaunchBar/tree/master/Window-Actions#readme)
+- [Upcoming Events](https://github.com/Ptujec/LaunchBar/tree/master/Upcoming#readme)
 - [Join Meeting](https://github.com/Ptujec/LaunchBar/tree/master/Join-Meeting#readme)
 - [Todoist Inbox](https://github.com/Ptujec/LaunchBar/tree/master/Todoist-Inbox#how-it-works)
 - [Todoist Today](https://github.com/Ptujec/LaunchBar/tree/master/Todoist-Today#readme)
+- [Window Managment Actions](https://github.com/Ptujec/LaunchBar/tree/master/Window-Actions#readme)
 - [Quit Applications (by Context)](https://github.com/Ptujec/LaunchBar/tree/master/Quit-Applications#readme)
 - [Recent Notes](https://github.com/Ptujec/LaunchBar/tree/master/Recent-Notes#readme)
 - [Recent Office Documents](https://github.com/Ptujec/LaunchBar/tree/master/Recent-Office-Documents#readme)
