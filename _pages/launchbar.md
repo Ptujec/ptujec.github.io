@@ -1,7 +1,7 @@
 ---
 title: LaunchBar Actions
 permalink: /launchbar/
-last_modified_at: 2025-03-27T16:32:08.878Z
+last_modified_at: 2025-03-28T15:16:56.476Z
 ---
 
 This is a curated list of actions I built for [LaunchBar](https://www.obdev.at/products/launchbar/index.html). If you find bugs, please [create an issue here](https://github.com/Ptujec/LaunchBar/issues/new). For questions and ideas, use the [discussions section on GitHub](https://github.com/Ptujec/LaunchBar/discussions).
@@ -66,6 +66,7 @@ Or simply use [LaunchBar Repo Updates](https://github.com/Ptujec/LaunchBar/tree/
 - [Twitter](https://github.com/Ptujec/LaunchBar/tree/master/Search-Actions#websites)
 - [Mindnode](https://github.com/Ptujec/LaunchBar/tree/master/Search-Actions#apps)
 - [iA Writer](https://github.com/Ptujec/LaunchBar/tree/master/Search-Actions#apps)
+- [Drafts](https://github.com/Ptujec/LaunchBar/tree/master/Drafts#search-drafts)
 - [Zotero](https://github.com/Ptujec/LaunchBar/tree/master/Zotero-Actions#readme)
 - [Obsidian](https://github.com/Ptujec/LaunchBar/tree/master/Obsidian-Actions#apps)
 - [Maps (including route and what3words support)](https://github.com/Ptujec/LaunchBar/tree/master/Search-Maps#readme)
@@ -80,6 +81,7 @@ Or simply use [LaunchBar Repo Updates](https://github.com/Ptujec/LaunchBar/tree/
 - [Window Managment Actions](https://github.com/Ptujec/LaunchBar/tree/master/Window-Actions#readme)
 - [Quit Applications (by Context)](https://github.com/Ptujec/LaunchBar/tree/master/Quit-Applications#readme)
 - [Recent Notes](https://github.com/Ptujec/LaunchBar/tree/master/Recent-Notes#readme)
+- [Recent Drafts](https://github.com/Ptujec/LaunchBar/tree/master/Drafts#recent-drafts)
 - [Recent Office Documents](https://github.com/Ptujec/LaunchBar/tree/master/Recent-Office-Documents#readme)
 - [Recent Affinity Documents](https://github.com/Ptujec/LaunchBar/tree/master/Recent-Affinity-Documents)
 - [Recent MindNode Next Documents](https://github.com/Ptujec/LaunchBar/tree/master/Recent-MindNodeNext-Documents#launchbar-actions-recent-mindnode-next-documents)
