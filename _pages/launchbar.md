@@ -1,7 +1,7 @@
 ---
 title: LaunchBar Actions
 permalink: /launchbar/
-last_modified_at: 2025-03-28T15:16:56.476Z
+last_modified_at: 2025-04-26T22:49:39.605Z
 ---
 
 This is a curated list of actions I built for [LaunchBar](https://www.obdev.at/products/launchbar/index.html). If you find bugs, please [create an issue here](https://github.com/Ptujec/LaunchBar/issues/new). For questions and ideas, use the [discussions section on GitHub](https://github.com/Ptujec/LaunchBar/discussions).
@@ -17,6 +17,7 @@ Or simply use [LaunchBar Repo Updates](https://github.com/Ptujec/LaunchBar/tree/
 - [ESV Bible Lookup](https://github.com/Ptujec/LaunchBar/tree/master/ESV-Lookup#readme)
 
 ### Communication
+- [Recent Messages](https://github.com/Ptujec/LaunchBar/tree/master/Recent-Messages#readme)
 - [Send iMessage to Contact](https://github.com/Ptujec/LaunchBar/tree/master/Send-iMessage-Contact#readme)
 - [Send iMessage](https://github.com/Ptujec/LaunchBar/tree/master/Send-iMessage#readme)
 - [Remove Duplicate Email Addresses](https://github.com/Ptujec/LaunchBar/tree/master/Text-Actions#readme)
