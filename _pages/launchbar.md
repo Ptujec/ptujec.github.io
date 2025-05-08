@@ -86,6 +86,7 @@ Or simply use [LaunchBar Repo Updates](https://github.com/Ptujec/LaunchBar/tree/
 - [Recent Office Documents](https://github.com/Ptujec/LaunchBar/tree/master/Recent-Office-Documents#readme)
 - [Recent Affinity Documents](https://github.com/Ptujec/LaunchBar/tree/master/Recent-Affinity-Documents)
 - [Recent MindNode Next Documents](https://github.com/Ptujec/LaunchBar/tree/master/Recent-MindNodeNext-Documents#launchbar-actions-recent-mindnode-next-documents)
+- [Recent Zed Workspaces](https://github.com/Ptujec/LaunchBar/tree/master/Recent-Zed-Workspaces)
 - [Run Shortcuts (with options to limit shortcuts to a specific folder)](https://github.com/Ptujec/LaunchBar/tree/master/Run-Shortcut#readme)
 - [Set alarm](https://github.com/Ptujec/LaunchBar/tree/master/Set-alarm#readme)
 - [Set timer](https://github.com/Ptujec/LaunchBar/tree/master/Set-timer#readme)
