@@ -1,7 +1,7 @@
 ---
 title: LaunchBar Actions
 permalink: /launchbar/
-last_modified_at: 2025-05-08T13:06:09.284Z
+last_modified_at: 2025-05-17T20:38:47.047Z
 ---
 
 This is a curated list of actions I built for [LaunchBar](https://www.obdev.at/products/launchbar/index.html). If you find bugs, please [create an issue here](https://github.com/Ptujec/LaunchBar/issues/new). For questions and ideas, use the [discussions section on GitHub](https://github.com/Ptujec/LaunchBar/discussions).
@@ -28,6 +28,7 @@ Or simply use [LaunchBar Repo Updates](https://github.com/Ptujec/LaunchBar/tree/
 - [MuseScore Scores](https://github.com/Ptujec/LaunchBar/tree/master/MuseScore-Action#readme)
 - [Actions for Music.app (Shuffle, Like, Add to Playlist, Fade to next song …)](https://github.com/Ptujec/LaunchBar/tree/master/Music-Actions#readme)
 - [Add To PodQueue](https://github.com/Ptujec/LaunchBar/tree/master/PodQueue#launchbar-action-add-to-podqueue)
+- [Pocket Casts](https://github.com/Ptujec/LaunchBar/tree/master/Pocket-Casts#launchbar-action-for-pocket-casts)
 
 ### Language & Translation
 - [DeepL Translator](https://github.com/Ptujec/LaunchBar/tree/master/DeepL-Action#readme)
