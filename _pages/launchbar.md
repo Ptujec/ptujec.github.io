@@ -1,7 +1,7 @@
 ---
 title: LaunchBar Actions
 permalink: /launchbar/
-last_modified_at: 2025-05-30T16:56:25.229Z
+last_modified_at: 2025-06-11T16:34:54.444Z
 ---
 
 This is a curated list of actions I built for [LaunchBar](https://www.obdev.at/products/launchbar/index.html). If you find bugs, please [create an issue here](https://github.com/Ptujec/LaunchBar/issues/new). For questions and ideas, use the [discussions section on GitHub](https://github.com/Ptujec/LaunchBar/discussions).
@@ -87,6 +87,7 @@ Or simply use [LaunchBar Repo Updates](https://github.com/Ptujec/LaunchBar/tree/
 - [Recent Office Documents](https://github.com/Ptujec/LaunchBar/tree/master/Recent-Office-Documents#readme)
 - [Recent Affinity Documents](https://github.com/Ptujec/LaunchBar/tree/master/Recent-Affinity-Documents)
 - [Recent MindNode Next Documents](https://github.com/Ptujec/LaunchBar/tree/master/Recent-MindNodeNext-Documents#launchbar-actions-recent-mindnode-next-documents)
+- [Recent Soulver Sheets](https://github.com/Ptujec/LaunchBar/tree/master/Recent-Soulver-Sheets)
 - [Recent Zed Workspaces](https://github.com/Ptujec/LaunchBar/tree/master/Recent-Zed-Workspaces)
 - [Run Shortcuts (with options to limit shortcuts to a specific folder)](https://github.com/Ptujec/LaunchBar/tree/master/Run-Shortcut#readme)
 - [Set alarm](https://github.com/Ptujec/LaunchBar/tree/master/Set-alarm#readme)
@@ -109,6 +110,7 @@ Or simply use [LaunchBar Repo Updates](https://github.com/Ptujec/LaunchBar/tree/
 - [Spellcheck toggle](https://github.com/Ptujec/LaunchBar/tree/master/GUI-Scripting-Actions#readme)
 
 ### Design & Development
+- [LaunchBar Developer Documentation](https://github.com/Ptujec/LaunchBar/tree/master/LaunchBar-Developer-Documentation)
 - [Color Palette from Website](https://github.com/Ptujec/LaunchBar/tree/master/Color-Actions#color-palette-from-website)
 - [Import Colors](https://github.com/Ptujec/LaunchBar/tree/master/Color-Actions#import-colors)
 - [CleanShot X Functions](https://github.com/Ptujec/LaunchBar/tree/master/CleanShot-X-Functions#readme)
