@@ -126,7 +126,7 @@ author:
       url: "https://github.com/ptujec"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://hessen.social/@ptujec"
+      url: "https://mastodon.social/@ptujec"
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/ptujec.bsky.social"
