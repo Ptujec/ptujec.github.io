@@ -1,6 +1,6 @@
 ---
 title: "The New Spotlight"
-date: 2025-06-16 13:36 +0200
+date: 2025-06-16 13:50 +0200
 ---
 
 If you're reading this, it should be no surprise that the [Spotlight announcement](https://www.apple.com/si/newsroom/2025/06/macos-tahoe-26-makes-the-mac-more-capable-productive-and-intelligent-than-ever/) at WWDC 2025 caught my attention. I'm a launcher nerd.
@@ -13,7 +13,12 @@ Obviously, people following along with the announcement were talking about apps 
 
 What caught my attention most is the App Intent integration. Spotlight now is another app besides Shortcuts that is able to do stuff with them. 
 
-<iframe width="100%" heigt="auto" src="https://www.apple.com/newsroom/videos/2025/autoplay/06/macos-tahoe-26-makes-the-mac-more-capable-productive-and-intelligent-than-ever/apple-wwdc25-macos-tahoe-26-spotlight-actions-send-email/large_2x.mp4"></iframe>
+<video width="100%" controls autoplay muted playsinline>
+  <source src="https://www.apple.com/newsroom/videos/2025/autoplay/06/macos-tahoe-26-makes-the-mac-more-capable-productive-and-intelligent-than-ever/apple-wwdc25-macos-tahoe-26-spotlight-actions-send-email/large_2x.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+(Source: [Apple](https://www.apple.com/newsroom/2025/06/macos-tahoe-26-makes-the-mac-more-capable-productive-and-intelligent-than-ever/))
 
 Is there a chance that Apple opens that [private API](https://mastodon.social/@jgarnham/114508467792973758) at some point?
 
