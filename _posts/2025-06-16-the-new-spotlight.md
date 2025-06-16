@@ -1,6 +1,6 @@
 ---
 title: "The New Spotlight"
-date: 2025-06-16 13:50 +0200
+date: 2025-06-16 14:00 +0200
 ---
 
 If you're reading this, it should be no surprise that the [Spotlight announcement](https://www.apple.com/si/newsroom/2025/06/macos-tahoe-26-makes-the-mac-more-capable-productive-and-intelligent-than-ever/) at WWDC 2025 caught my attention. I'm a launcher nerd.
@@ -24,4 +24,4 @@ Is there a chance that Apple opens that [private API](https://mastodon.social/@j
 
 This is what [I really want](https://hessen.social/@ptujec/114612574020290426). I don't want to be limited to the Shortcuts interface to use App Intents. I want direct access to them. I want to integrate them into LaunchBar actions.
 
-BTW, the last bit of this year's live version of [The Talk Show](https://youtu.be/vqwPUHTFEkg?si=mkFtnEBEyZJq55D7&t=7074) is about the Spotlight announcement. It's worth a listen. (The (non-)reaction to Gruber's LaunchBar was sadly funny, but expected, I guess.)
+BTW, the last bit of this year's live version of [The Talk Show](https://youtu.be/vqwPUHTFEkg?si=mkFtnEBEyZJq55D7&t=7074) is about the Spotlight announcement. It's worth a listen. (The (non-)reaction to Gruber's LaunchBar shout-out was sadly funny, but expected, I guess.)
