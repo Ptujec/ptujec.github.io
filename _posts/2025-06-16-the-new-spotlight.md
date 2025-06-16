@@ -1,6 +1,6 @@
 ---
 title: "The New Spotlight"
-date: 2025-06-16 15:10 +0200
+date: 2025-06-16 15:30 +0200
 ---
 
 If you're reading this, it should be no surprise that the [Spotlight announcement](https://www.apple.com/si/newsroom/2025/06/macos-tahoe-26-makes-the-mac-more-capable-productive-and-intelligent-than-ever/) at WWDC 2025 caught my attention. I'm a launcher nerd.
@@ -26,4 +26,4 @@ This is what [I really want](https://hessen.social/@ptujec/114612574020290426). 
 
 Why App Intents? For one, it is what Apple has been pushing in recent years. As of now, there is usually an alternative way to interact with apps (URL schemes, CLI, AppleScript, reading plists, databases, etc.). This is true even for the example shown in the video above. But I have already come across instances where the only access is through an App Intent. For example, in my [action to display recent chats/messages](https://github.com/Ptujec/LaunchBar/tree/master/Recent-Messages), I can open those in the Messages app with a URL scheme—except for named group chats. No API, no AppleScript … There is an "Open Conversation" App Intent, though; it is in Shortcuts. It is kind of stupid, though, to have to create a shortcut and call that via the shortcut CLI just to open a group conversation. Using it directly would be so much more convenient.
 
-BTW, the last bit of this year's live version of [The Talk Show](https://youtu.be/vqwPUHTFEkg?si=mkFtnEBEyZJq55D7&t=7074) is about the Spotlight announcement. It's worth a listen. (The non-reaction to Gruber's LaunchBar shout-out was sadly funny, but expected, I guess.)
+BTW, the last bit of this year's live version of [The Talk Show](https://youtu.be/vqwPUHTFEkg?si=mkFtnEBEyZJq55D7&t=7074) is about the Spotlight announcement. It's worth a listen.
