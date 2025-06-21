@@ -1,7 +1,7 @@
 ---
 title: LaunchBar Actions
 permalink: /launchbar/
-last_modified_at: 2025-06-11T16:34:54.444Z
+last_modified_at: 2025-06-21T18:34:52.564Z
 ---
 
 This is a curated list of actions I built for [LaunchBar](https://www.obdev.at/products/launchbar/index.html). If you find bugs, please [create an issue here](https://github.com/Ptujec/LaunchBar/issues/new). For questions and ideas, use the [discussions section on GitHub](https://github.com/Ptujec/LaunchBar/discussions).
@@ -89,13 +89,13 @@ Or simply use [LaunchBar Repo Updates](https://github.com/Ptujec/LaunchBar/tree/
 - [Recent MindNode Next Documents](https://github.com/Ptujec/LaunchBar/tree/master/Recent-MindNodeNext-Documents#launchbar-actions-recent-mindnode-next-documents)
 - [Recent Soulver Sheets](https://github.com/Ptujec/LaunchBar/tree/master/Recent-Soulver-Sheets)
 - [Recent Zed Workspaces](https://github.com/Ptujec/LaunchBar/tree/master/Recent-Zed-Workspaces)
-- [Run Shortcuts (with options to limit shortcuts to a specific folder)](https://github.com/Ptujec/LaunchBar/tree/master/Run-Shortcut#readme)
 - [Set alarm](https://github.com/Ptujec/LaunchBar/tree/master/Set-alarm#readme)
 - [Set timer](https://github.com/Ptujec/LaunchBar/tree/master/Set-timer#readme)
 - [Open text with iA Writer](https://github.com/Ptujec/LaunchBar/tree/master/Open-text-with-iA-Writer#readme)
 - [Mindnode Import Text](https://github.com/Ptujec/LaunchBar/tree/master/Mindnode-Import-Text#readme)
 - [URL scheme actions for "contextual computing" (Mail, iA Writer & MindNode)](https://github.com/Ptujec/LaunchBar/tree/master/URL-Scheme-Actions#readme)
 - [Gedankensalat - a scratchpad for ideas](https://github.com/Ptujec/LaunchBar/tree/master/Gedankensalat#readme)
+- [Later – Save Links for Later](https://github.com/Ptujec/LaunchBar/tree/master/Later#readme) 
 
 ### System Info & Toggles
 - [Manage Notifications (e.g. dismiss all)](https://github.com/Ptujec/LaunchBar/tree/master/Notifications#readme)
