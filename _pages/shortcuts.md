@@ -1,7 +1,7 @@
 ---
 title: Shortcuts
 permalink: /shortcuts/
-last_modified_at: 2024-12-25T19:07:12.258Z
+last_modified_at: 2025-06-22T22:04:43.215Z
 ---
 
 I do most of my automation in [LaunchBar](https://ptujec.github.io/launchbar)[^1]. I prefer writing code to clicking it together. But sometimes, a shortcut is just the easiest solution… or the only solution (iOS). 
@@ -13,6 +13,12 @@ There are [plenty](https://matthewcassinelli.com/sirishortcuts/) of [great](http
 This shortcut retrieves information from your keychain about the current Wi-Fi connection and its password and presents it as a QR code. You will need to enter your username and password in the process.
 
 **[Get Shortcut](https://www.icloud.com/shortcuts/e2463e2b39d14c5f98a8bb38f8a6746c)** (macOS only)
+
+### Send URL To LaunchBar
+
+This adds an item to the context menu that lets you send a URL from linked text to LaunchBar.
+
+**[Get Shortcut](https://www.icloud.com/shortcuts/60264ed63f484f0fbd98c76c4ddbb748)** (macOS only)
 
 
 [^1]: BTW: LaunchBar has [great Shortcut support](https://matthewcassinelli.com/launchbar-adds-improved-shortcuts-support/).
