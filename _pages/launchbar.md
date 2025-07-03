@@ -1,7 +1,7 @@
 ---
 title: LaunchBar Actions
 permalink: /launchbar/
-last_modified_at: 2025-06-21T18:34:52.564Z
+last_modified_at: 2025-07-03T15:33:54.745Z
 ---
 
 This is a curated list of actions I built for [LaunchBar](https://www.obdev.at/products/launchbar/index.html). If you find bugs, please [create an issue here](https://github.com/Ptujec/LaunchBar/issues/new). For questions and ideas, use the [discussions section on GitHub](https://github.com/Ptujec/LaunchBar/discussions).
@@ -69,7 +69,7 @@ Or simply use [LaunchBar Repo Updates](https://github.com/Ptujec/LaunchBar/tree/
 - [Mindnode](https://github.com/Ptujec/LaunchBar/tree/master/Search-Actions#apps)
 - [iA Writer](https://github.com/Ptujec/LaunchBar/tree/master/Search-Actions#apps)
 - [Drafts](https://github.com/Ptujec/LaunchBar/tree/master/Drafts#search-drafts)
-- [Zotero](https://github.com/Ptujec/LaunchBar/tree/master/Zotero-Actions#readme)
+- [Zotero](https://github.com/Ptujec/LaunchBar/tree/master/Zotero-Actions#readme) (+ [RIS Cleanup](https://github.com/Ptujec/LaunchBar/tree/master/Zotero-Actions#ris-cleanup-action))
 - [Obsidian](https://github.com/Ptujec/LaunchBar/tree/master/Obsidian-Actions#apps)
 - [Maps (including route and what3words support)](https://github.com/Ptujec/LaunchBar/tree/master/Search-Maps#readme)
 - [Search Apple Music (with suggestions)](https://github.com/Ptujec/LaunchBar/tree/master/GUI-Scripting-Actions#readme)
