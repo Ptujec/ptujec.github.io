@@ -36,6 +36,7 @@ Or simply use [LaunchBar Repo Updates](https://github.com/Ptujec/LaunchBar/tree/
 - [Verbs](https://github.com/Ptujec/LaunchBar/tree/master/Verbs-Action#readme)
 - [Duden mit Vorschlägen und Bestimmungen](https://github.com/Ptujec/LaunchBar/tree/master/Duden-Action#readme)
 - [OpenThesaurus.de](https://github.com/Ptujec/LaunchBar/tree/master/OpenThesaurus.de#readme)
+- [StudyCards List (Flashcards)](https://github.com/Ptujec/LaunchBar/tree/master/StudyCards-List)
 
 ### Writing
 - [Writing Tools](https://github.com/Ptujec/LaunchBar/tree/master/Writing-Tools#readme)
