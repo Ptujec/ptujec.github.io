@@ -1,10 +1,10 @@
 ---
 title: LaunchBar Actions
 permalink: /launchbar/
-last_modified_at: 2025-07-03T15:33:54.745Z
+last_modified_at: 2026-01-25T8:58:54.745Z
 ---
 
-This is a curated list of actions I built for [LaunchBar](https://www.obdev.at/products/launchbar/index.html). If you find bugs, please [create an issue here](https://github.com/Ptujec/LaunchBar/issues/new). For questions and ideas, use the [discussions section on GitHub](https://github.com/Ptujec/LaunchBar/discussions).
+This is a curated list of actions (extensions) I built for [LaunchBar](https://www.obdev.at/products/launchbar/index.html), the macOS application. If you find bugs, please [create an issue here](https://github.com/Ptujec/LaunchBar/issues/new). For questions and ideas, use the [discussions section on GitHub](https://github.com/Ptujec/LaunchBar/discussions).
 
 If you like what I am doing, please spread the word. You can also **sponsor** my LaunchBar projects via [PayPal](https://www.paypal.com/donate/?business=J3RS8S74NDJPU&no_recurring=0&currency_code=EUR). Thanks! ♥️
 
