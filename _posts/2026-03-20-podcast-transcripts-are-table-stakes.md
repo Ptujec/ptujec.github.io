@@ -15,7 +15,7 @@ It’s the kind of feature that fits how I use podcasts. Like chapters, it suppo
 
 Every now and then, I revisit an episode and take notes while listening. The way transcripts are implemented in Apple Podcasts and Overcast improves this significantly, since I don’t need to replay the audio multiple times to get a quote right.
 
-## A Feature to Switch Clients For?
+## A Feature to Switch Clients for?
 
 The client that suits me best overall is Pocket Casts. I’m subscribed to Pocket Casts Plus, which happens to include transcripts. Pocket Casts transcripts are quite good. [They allow search and copy](https://blog.pocketcasts.com/2025/04/29/generated-transcripts-are-here/). They even support Slovene. They don’t sync with audio though, making them useless for navigation.
 
