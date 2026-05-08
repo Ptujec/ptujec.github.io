@@ -1,7 +1,7 @@
 ---
 title: LaunchBar Actions
 permalink: /launchbar/
-last_modified_at: 2026-01-25T8:58:54.745Z
+last_modified_at: 2026-05-08T16:23:46.312Z
 ---
 
 This is a curated list of actions (extensions) I built for [LaunchBar](https://www.obdev.at/products/launchbar/index.html), the macOS application. If you find bugs, please [create an issue here](https://github.com/Ptujec/LaunchBar/issues/new). For questions and ideas, use the [discussions section on GitHub](https://github.com/Ptujec/LaunchBar/discussions).
@@ -89,7 +89,6 @@ Or simply use [LaunchBar Repo Updates](https://github.com/Ptujec/LaunchBar/tree/
 - [Recent Affinity Documents](https://github.com/Ptujec/LaunchBar/tree/master/Recent-Affinity-Documents)
 - [Recent MindNode Next Documents](https://github.com/Ptujec/LaunchBar/tree/master/Recent-MindNodeNext-Documents#launchbar-actions-recent-mindnode-next-documents)
 - [Recent Soulver Sheets](https://github.com/Ptujec/LaunchBar/tree/master/Recent-Soulver-Sheets)
-- [Recent Zed Workspaces](https://github.com/Ptujec/LaunchBar/tree/master/Recent-Zed-Workspaces)
 - [Set alarm](https://github.com/Ptujec/LaunchBar/tree/master/Set-alarm#readme)
 - [Set timer](https://github.com/Ptujec/LaunchBar/tree/master/Set-timer#readme)
 - [Open text with iA Writer](https://github.com/Ptujec/LaunchBar/tree/master/Open-text-with-iA-Writer#readme)
